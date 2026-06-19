@@ -1,0 +1,25 @@
+.root{
+    -fx-background-color: #121212;
+    -fx-font-family: "Verdana";
+    -fx-font-size: 14pt;
+}
+
+.label, .text{
+    -fx-fill: #FFFFFF;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button{
+    -fx-background-color: #333333;
+    -fx-text-fill: #FFFFFF;
+}
+
+.correct{
+    -fx-background-color: #64B5F6;
+    -fx-text-fill: #000000;
+}
+
+.wrong{
+    -fx-background-color: #FF7043;
+    -fx-text-fill: #000000;
+}

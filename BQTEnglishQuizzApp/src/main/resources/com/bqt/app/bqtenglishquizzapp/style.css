@@ -1,0 +1,18 @@
+.project{
+    -fx-background-color: cyan;
+    -fx-alignment:center;
+    -fx-spacing: 15;
+}
+.button{
+    -fx-background-color:darkblue;
+    -fx-text-fill: white;
+    -fx-alignment:center;
+    -fx-pref-width: 150;
+    -fx-pref-height: 40;
+}
+.title{
+    -fx-fill: red;
+    -fx-font-size: 38;
+    -fx-stroke: yellow;     
+    -fx-stroke-width: 2;
+}
